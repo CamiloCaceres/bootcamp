@@ -1,5 +1,9 @@
 # Página Web Personal con IA Integrada
 
+Hecha por Camilo Caceres
+
+Archivos en [https://github.com/CamiloCaceres/bootcamp]
+
 Este proyecto es parte del Laboratorio de Creación de Página Web con IA Integrada, donde se desarrolló una página web personal utilizando diversas herramientas de inteligencia artificial para generar y optimizar el contenido.
 
 ## Descripción del Proyecto
